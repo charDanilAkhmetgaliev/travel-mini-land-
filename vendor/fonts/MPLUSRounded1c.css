@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "MPLUSRounded1c";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./MPLUSRounded1c-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "MPLUSRounded1c";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./MPLUSRounded1c-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "MPLUSRounded1c";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(./MPLUSRounded1c-Black.ttf) format("truetype");
+}
