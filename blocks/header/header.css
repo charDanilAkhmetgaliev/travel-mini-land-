@@ -1,0 +1,8 @@
+.header {
+  margin: 0 auto;
+  padding: 50px 69px 0;
+  box-sizing: border-box;
+  max-width: 1280px;
+  min-width: 320px;
+  color: #010101;
+}
