@@ -1,0 +1,7 @@
+.intro__title-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 23px;
+  width: 550px;
+}
